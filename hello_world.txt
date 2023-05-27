@@ -1,0 +1,1 @@
+Adding text in order to practice staging this file with git.
